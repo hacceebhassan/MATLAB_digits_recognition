@@ -1,6 +1,8 @@
 # MATLAB_digits_recognition
 Digits Recognition using HAM (Neural Network)
 
+![Sample Image](/digits_recognition/sample.png)
+
 ## Network Architecture
 A Hopfield Network has the following architecture:\
 ◮ Recurrent network, weights Wij\
