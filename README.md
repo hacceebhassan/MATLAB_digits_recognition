@@ -19,4 +19,4 @@ A Hopfield Network has the following architecture:\
 ◮ Low capacity
 
 ## How to Run File
-Open the "script.m" file and run it on MATLAB
+Open the **digits_recognition** Folder and run *script.m* file it on MATLAB
